@@ -1,0 +1,1 @@
+this is a new notepad docu created through a command line in BASH
